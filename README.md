@@ -1,2 +1,2 @@
-# Cplusplus
+# C++
 Basics and DSA
